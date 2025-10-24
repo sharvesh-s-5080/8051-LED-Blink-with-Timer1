@@ -4,7 +4,7 @@
 To write and simulate an Assembly Language Program using the 8051 microcontroller to blink an LED
 connected to Port 0.5 with a 250 millisecond delay, using Timer1 in Mode1.
 # Software required:
-Keil μVision IDE
+Keil μVision IDE,
 8051 Assembler (A51)
 # Algorithm:
 1.Configure Timer1 in Mode 1 (16-bit) using TMOD. 2.Load TH1 and TL1 with values for ~50 ms delay.
