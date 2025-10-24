@@ -1,4 +1,4 @@
-# 8051-LED-Blink-with-Timer1
+# 8051-LED-Blink-with-Timer1-SA-1
 8051 Assembly Program to Blink an LED Using Timer1 Mode1 with 250ms Delay
 # Aim:
 To write and simulate an Assembly Language Program using the 8051 microcontroller to blink an LED
